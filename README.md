@@ -1,2 +1,2 @@
 # contactbook-backend
-Web Application
+Web Application Development Assignment - Part 1 & 2
